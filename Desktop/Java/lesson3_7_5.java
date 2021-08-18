@@ -1,4 +1,5 @@
 import java.io.*;
+
 class lesson3_7_5 {
   public static void main(String[] args) throws IOException {
     System.out.println("身長と体重を入力してください");
